@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar BitFinal-0.0.1-SNAPSHOT.jar
